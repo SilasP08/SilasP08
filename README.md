@@ -45,8 +45,7 @@ Apaixonado por transformar ideias em aplicações web completas, do banco de dad
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SilasP08&show_icons=true&theme=tokyonight" alt="Estatísticas" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilasP08&layout=compact&theme=tokyonight" alt="Linguagens" />
+  <img src="https://streak-stats.demolab.com/?user=SilasP08&theme=tokyonight" alt="Sequência de contribuições" />
 </p>
 
 ---
