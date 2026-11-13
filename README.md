@@ -1,8 +1,14 @@
-# Olá, eu sou o Silas 👋
+<!-- Cabeçalho animado (ondas) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Silas&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20FullStack&descAlignY=60&descSize=22" alt="Cabeçalho" />
+</p>
 
-### Desenvolvedor FullStack | Estudante do Ensino Técnico no SENAI
-
-Apaixonado por transformar ideias em aplicações web completas, do banco de dados até a interface. Estou em constante aprendizado e sempre em busca de novos desafios e projetos.
+<!-- Texto que se digita sozinho -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Silas+%F0%9F%91%8B;Desenvolvedor+FullStack;Estudante+do+Ensino+T%C3%A9cnico+no+SENAI;PHP+%7C+MySQL+%7C+Node+%7C+Next.js;Sempre+aprendendo+e+construindo+coisas+novas" alt="Texto animado" />
+  </a>
+</p>
 
 ---
 
@@ -13,46 +19,57 @@ Apaixonado por transformar ideias em aplicações web completas, do banco de dad
 - 🌱 Aprendendo e praticando todos os dias
 - 🤝 Aberto a colaborações, estágios e oportunidades
 
+Apaixonado por transformar ideias em aplicações web completas, do banco de dados até a interface.
+
 ---
 
 ## 🛠️ Tecnologias
 
-**Front-end**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-**Back-end**
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-**Banco de dados**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,php,mysql,nodejs,nextjs,git,github" alt="Tecnologias" />
+</p>
 
 ---
 
 ## 📌 Projetos em destaque
 
-<!-- Troque pelos seus projetos reais -->
-
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
-| [ConstruTech](https://github.com/SilasP08/ConstruTech) | Dashboard para controlar estoque de uma loja de construção | PHP, HMTL, CSS |
-| [House Eletric](https://github.com/SilasP08/ATV_PFEND1_INDIVIDUAL) | Ecommerce de uma loja que vende materias e equipamanetos eletricos | Node, Next.js, MySql |
-| [Sync](https://github.com/lvzangrande/sync) | Consultoria e Prestadora de serviços, com areas de admin e usuario, onde o usuario pode contratar uma profissional | PHP, MySql |
-| [Volt House](https://github.com/gui236/VoltHouse) | Serviço de gerencimento do consumo de energia de diversas empresas, cada uma tendo seu proprio dasboard | Node, Next.js, MySql |
+| [ConstruTech](https://github.com/SilasP08/ConstruTech) | Dashboard para controlar o estoque de uma loja de construção | PHP, HTML, CSS |
+| [House Eletric](https://github.com/SilasP08/ATV_PFEND1_INDIVIDUAL) | E-commerce de uma loja que vende materiais e equipamentos elétricos | Node, Next.js, MySQL |
+| [Sync](https://github.com/lvzangrande/sync) | Consultoria e prestadora de serviços, com áreas de admin e usuário, onde o usuário pode contratar um profissional | PHP, MySQL |
+| [Volt House](https://github.com/gui236/VoltHouse) | Serviço de gerenciamento do consumo de energia de diversas empresas, cada uma com seu próprio dashboard | Node, Next.js, MySQL |
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SilasP08&show_icons=true&theme=tokyonight" alt="Estatísticas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilasP08&layout=compact&theme=tokyonight" alt="Linguagens" />
+</p>
+
+---
+
+## 🐍 Minhas contribuições
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SilasP08/SilasP08/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SilasP08/SilasP08/output/github-snake.svg" />
+    <img alt="Cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/SilasP08/SilasP08/output/github-snake.svg" />
+  </picture>
+</p>
 
 ---
 
 ## 📫 Contato
 
-<!-- Troque pelos seus links -->
+<p align="center">
+  <a href="mailto:silas.possarle07@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+</p>
 
-[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silas.possarle07@gmail.com)
-
----
-
-⭐ Fique à vontade para explorar meus repositórios!
+<!-- Rodapé animado -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" alt="Rodapé" />
+</p>
