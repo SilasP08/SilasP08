@@ -40,7 +40,7 @@ Apaixonado por transformar ideias em aplicações web completas, do banco de dad
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
-| [ConstruTech]([link-do-repositorio](https://github.com/SilasP08/ConstruTech)) | Dashboard para controlar estoque de uma loja de construção | PHP, HMTL, CSS |
+| [ConstruTech]((https://github.com/SilasP08/ConstruTech)) | Dashboard para controlar estoque de uma loja de construção | PHP, HMTL, CSS |
 | [House Eletric](https://github.com/SilasP08/ATV_PFEND1_INDIVIDUAL) | Ecommerce de uma loja que vende materias e equipamanetos eletricos | Node, Next.js, MySql |
 | [Sync](https://github.com/lvzangrande/sync) | Consultoria e Prestadora de serviços, com areas de admin e usuario, onde o usuario pode contratar uma profissional | PHP, MySql |
 | [Volt House](https://github.com/gui236/VoltHouse) | Serviço de gerencimento do consumo de energia de diversas empresas, cada uma tendo seu proprio dasboard | Node, Next.js, MySql |
